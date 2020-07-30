@@ -11,6 +11,6 @@ if lowest_value > value
 end
 
 end
-h.index(lowest_value)
+name_hash.index(lowest_value)
 
 end
