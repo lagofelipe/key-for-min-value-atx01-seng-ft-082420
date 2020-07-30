@@ -9,7 +9,7 @@ if value < lowest_key
   lowest_key = value
 
 end
-lowest_key
+value
 end
 
 
