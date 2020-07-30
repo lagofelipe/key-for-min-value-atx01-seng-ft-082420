@@ -11,6 +11,6 @@ if lowest_value > value
 end
 
 end
-lowest_value
+h.index(lowest_value)
 
 end
