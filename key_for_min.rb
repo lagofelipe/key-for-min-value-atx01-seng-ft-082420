@@ -9,7 +9,7 @@ if value < lowest_key
   lowest_key = value
 
 end
-name_hash[lowest_key]
+lowest_key
 end
 
 
