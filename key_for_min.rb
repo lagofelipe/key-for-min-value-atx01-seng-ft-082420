@@ -9,8 +9,8 @@ if value < lowest_key
   lowest_key = value
 
 end
-
-end
 lowest_key
+end
+
 
 end
