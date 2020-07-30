@@ -11,6 +11,6 @@ if lowest_value > value
 end
 
 end
-
+:key => lowest_value
 
 end
