@@ -11,6 +11,6 @@ if lowest_value > value
 end
 
 end
-key
+key_for_min_value
 
 end
