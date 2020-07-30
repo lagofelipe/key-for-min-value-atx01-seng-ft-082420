@@ -11,6 +11,6 @@ if value < lowest_key
 end
 
 end
-value
+lowest_key
 
 end
